@@ -25,3 +25,6 @@ background image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pyth
 
 ### jupyter notebook:
 
+## Machine Learning
+
+我使用了VGG16（预训练权重模型）
