@@ -9,7 +9,9 @@ I used three libraries to generate the word clouds: numpy (for generating word c
 
 ### Resources：
 font: https://www.zitijia.com/downloadpage?itemid=281258939050380345
+
 tutorial: https://www.bilibili.com/video/BV1Au41127ia/?share_source=copy_web&vd_source=f13076e590d71ce036a88a28071390d4
+
 background image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
 
 ### display:
