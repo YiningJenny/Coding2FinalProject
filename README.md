@@ -5,6 +5,8 @@ I used the beautifulsoup library to scrape links to download TV shows from a web
 
 ### display:
 ![image](https://user-images.githubusercontent.com/119497753/227047827-dd684a8d-b04d-458c-b307-678d62397cdb.png)
+### jupyter notebook:
+
 
 ## WebScraper
 First, I used the re library to crawl the top 250 movies on the Douban movie charts, the movie name information, and the movie content description. Then, I wrote a format to summarise and generate the word cloud.
