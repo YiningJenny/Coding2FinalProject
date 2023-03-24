@@ -6,6 +6,7 @@ I used the beautifulsoup library to scrape links to download TV shows from a web
 ### display:
 ![image](https://user-images.githubusercontent.com/119497753/227047827-dd684a8d-b04d-458c-b307-678d62397cdb.png)
 ### jupyter notebook:
+https://github.com/YiningJenny/Coding2FinalProject/blob/master/BeautifulSoup.ipynb
 
 
 ## WebScraper
@@ -25,6 +26,3 @@ background image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pyth
 
 ### jupyter notebook:
 
-## Machine Learning
-
-我使用了VGG16（预训练权重模型）
